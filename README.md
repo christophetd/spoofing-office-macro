@@ -16,3 +16,7 @@ Demo: (click for full size)
 - ["Red Teaming in the EDR age"](https://www.youtube.com/watch?v=l8nkXCOYQC4) by Will Burgess 
 - https://blog.xpnsec.com/how-to-argue-like-cobalt-strike/
 - https://twitter.com/subtee
+
+## Disclaimer
+
+You are solely responsible for the use you make of this PoC. I assume no liability for any misuse or damage caused by this program.
