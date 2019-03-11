@@ -1,8 +1,7 @@
-This repository contains an example of a VBA macro spawning a process with a spoofed parent and command line. 
-
-Companion blog post: https://blog.christophetd.fr/building-an-office-macro-to-spoof-process-parent-and-command-line
+This repository contains an example of a VBA macro spawning a process with a spoofed parent and command line.  Companion blog post: https://blog.christophetd.fr/building-an-office-macro-to-spoof-process-parent-and-command-line
 
 Demo: (click for full size)
+
 ![Demo](https://user-images.githubusercontent.com/136675/54154646-49e44780-443a-11e9-998d-ec1f54a83437.gif)
 
 
