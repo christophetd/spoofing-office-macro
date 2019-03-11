@@ -2,7 +2,7 @@ This repository contains an example of a VBA macro spawning a process with a spo
 
 Companion blog post: https://blog.christophetd.fr/building-an-office-macro-to-spoof-process-parent-and-command-line
 
-{{DEMO}}
+![Demo](https://user-images.githubusercontent.com/136675/54154646-49e44780-443a-11e9-998d-ec1f54a83437.gif)
 
 ## Notes
 
