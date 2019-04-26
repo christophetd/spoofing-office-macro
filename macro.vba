@@ -221,7 +221,7 @@ Public Function getPidByName(ByVal name As String) As Integer
     continueSearching = Process32First(snapshot, pEntry)
  
     Do
-        If Left$(pEntry.szexeFile, Len(name)) = LCase$(name) Then
+        If LCase$(Left$(pEntry.szexeFile, Len(name))) = LCase$(name) Then
             getPidByName = pEntry.th32ProcessID
             continueSearching = False
         Else
