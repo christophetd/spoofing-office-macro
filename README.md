@@ -9,9 +9,11 @@ Click for full size.
 
 ## Notes
 
-This PoC was tested on Windows 10 with Office Professional Plus 2016, version 1902. It will only work on 32-bit Office versions (on a 32 or 64-bit Windows version). If you have access to a 64-bit Office version and would like to contribute, please do!
+- The 32-bit initial PoC was written and tested by myself, on Windows 10 with Office Professional Plus 2016, version 1902. 
 
-The size of the original command line stored in [`originalCli`](https://github.com/christophetd/spoofing-office-macro/blob/master/macro.vba#L260) needs to be greater than the size of the real one stored in [`cmdStr`](https://github.com/christophetd/spoofing-office-macro/blob/master/macro.vba#L311)
+- The 64-bit version is a contribution brought by [@py7hagoras](https://github.com/py7hagoras).
+
+- The size of the original command line stored in [`originalCli`](https://github.com/christophetd/spoofing-office-macro/blob/master/macro.vba#L260) needs to be greater than the size of the real one stored in [`cmdStr`](https://github.com/christophetd/spoofing-office-macro/blob/master/macro.vba#L311)
 
 ## Acknowledgments & inspiration
 
